@@ -11,7 +11,7 @@ import type {
 export const identity: Identity = {
   name: "Elyon John",
   logo: "/logo.png",
-  email: "tim@witzdam.com",
+  email: "lawanijohn70@gmail.com",
 };
 
 export const navBarLinks: NavBarLink[] = [
@@ -76,22 +76,22 @@ export const aboutPageContent: AboutPageContent = {
   seo: {
     title: "About | Elyon John",
     description:
-      "Full time student from Germany who loves building cool things using code.",
+      "Full time student from Nigeria who loves building cool things using code.",
     image: identity.logo,
   },
   subtitle: "Some information about myself",
   about: {
     description: `
-I'm Tim Witzdam, a full time student from Germany who also loves building cool things using code.
+I'm Tim Witzdam, a Full time student from Nigeria who loves building cool things using code.
 <br/><br/>
 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eaque placeat est architecto tempora voluptatem sit suscipit aspernatur? <br/><br/>
 Facere quibusdam reiciendis, distinctio sunt praesentium error accusantium consectetur nemo vero officia itaque.`, // Markdown is supported
     image_l: {
-      url: "/demo-1.jpg",
+      url: "/demo1.gif",
       alt: "Left Picture",
     },
     image_r: {
-      url: "/demo-1.jpg",
+      url: "//demo1.gif",
       alt: "Right Picture",
     },
   },
